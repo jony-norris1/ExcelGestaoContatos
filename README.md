@@ -1,8 +1,8 @@
-# ExcelGestaoContatos
+# Ferramenta de Gestão de Contatos e Empresas no Excel junto ao Python
 
 ## Descrição
 
-`ExcelGestaoContatos` é um projeto inovador que combina o poder do Microsoft Excel e Python para gerenciar contatos de forma eficiente. Se você tem uma grande quantidade de contatos e está procurando uma maneira simples, mas eficaz, de organizá-los, este projeto é para você.
+`ExcelGestaoContatos` é um projeto inovador que combina o poder do Microsoft Excel e Python para gerenciar contatos de forma eficiente. Se você tem uma grande quantidade de contatos e está procurando uma maneira simples, mas eficaz, de organizá-los, este projeto é para você. A ferramenta permitirá que o usuário armazene informações de contato e empresas em uma planilha do Excel e utilize o Python para realizar operações de busca e filtragem de dados.
 
 ## Recursos
 
@@ -15,9 +15,20 @@
 
 1. **Abra o Arquivo**: Inicie abrindo o arquivo Excel no programa Microsoft Excel.
 2. **Execute o Programa Python**: Execute o programa Python associado que gerencia a funcionalidade do Excel.
-3. **Gerencie seus Contatos**: Use a aba 'Contatos' para adicionar novos contatos, editar informações de contatos existentes ou excluir contatos.
-4. **Pesquise Contatos**: Use a função de pesquisa para encontrar rapidamente contatos específicos.
-5. **Exporte seus Contatos**: Use a função de exportação para salvar seus contatos em um arquivo separado para backup ou para uso em outro programa.
+
+## Inicialização
+
+Para inicializar o projeto após o git clone, siga os passos abaixo:
+
+1. Instale o Python em sua máquina.
+2. Abra a planilha do Excel "simulation_project.csv" no diretório raiz do projeto.
+3. Execute o arquivo "gerenciador_contatos.py" para utilizar as funcionalidades do projeto.
+
+## Implementações futuras
+
+- Adicionar funcionalidades de edição e exclusão de dados.
+- Implementar uma interface gráfica para facilitar a utilização da ferramenta.
+- Adicionar suporte para outros formatos de planilha, como CSV e Google Sheets.
 
 ## Contribuição
 
